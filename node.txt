@@ -1,0 +1,10 @@
+// how to read a file(nodejs.org/api/fs.html)
+payal 
+shivani
+khusboo
+bella
+edward
+michale
+Sara 
+veronica
+peter
